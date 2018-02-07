@@ -1,0 +1,11 @@
+C:\Users\ejnic\Source\Repos\ContosoUniversityTutorial\ContosoUniversityTutorial\bin\Debug\netcoreapp2.0\ContosoUniversityTutorial.deps.json
+C:\Users\ejnic\Source\Repos\ContosoUniversityTutorial\ContosoUniversityTutorial\bin\Debug\netcoreapp2.0\ContosoUniversityTutorial.runtimeconfig.json
+C:\Users\ejnic\Source\Repos\ContosoUniversityTutorial\ContosoUniversityTutorial\bin\Debug\netcoreapp2.0\ContosoUniversityTutorial.runtimeconfig.dev.json
+C:\Users\ejnic\Source\Repos\ContosoUniversityTutorial\ContosoUniversityTutorial\bin\Debug\netcoreapp2.0\ContosoUniversityTutorial.dll
+C:\Users\ejnic\Source\Repos\ContosoUniversityTutorial\ContosoUniversityTutorial\bin\Debug\netcoreapp2.0\ContosoUniversityTutorial.pdb
+C:\Users\ejnic\Source\Repos\ContosoUniversityTutorial\ContosoUniversityTutorial\obj\Debug\netcoreapp2.0\ContosoUniversityTutorial.csprojResolveAssemblyReference.cache
+C:\Users\ejnic\Source\Repos\ContosoUniversityTutorial\ContosoUniversityTutorial\obj\Debug\netcoreapp2.0\ContosoUniversityTutorial.csproj.CoreCompileInputs.cache
+C:\Users\ejnic\Source\Repos\ContosoUniversityTutorial\ContosoUniversityTutorial\obj\Debug\netcoreapp2.0\ContosoUniversityTutorial.AssemblyInfoInputs.cache
+C:\Users\ejnic\Source\Repos\ContosoUniversityTutorial\ContosoUniversityTutorial\obj\Debug\netcoreapp2.0\ContosoUniversityTutorial.AssemblyInfo.cs
+C:\Users\ejnic\Source\Repos\ContosoUniversityTutorial\ContosoUniversityTutorial\obj\Debug\netcoreapp2.0\ContosoUniversityTutorial.dll
+C:\Users\ejnic\Source\Repos\ContosoUniversityTutorial\ContosoUniversityTutorial\obj\Debug\netcoreapp2.0\ContosoUniversityTutorial.pdb
